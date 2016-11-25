@@ -1,0 +1,8 @@
+Para compilar os dois arquivos C:
+	gcc <nome_do_arquivo> -o <nome_do_executavel> -lpthread
+para executar:
+	./<nome_do_executavel>
+	
+
+
+
